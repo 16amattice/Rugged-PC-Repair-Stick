@@ -1,4 +1,4 @@
 # Rugged-PC-Repair-Stick
 ## Installation 
-# Changelog
-# Contribute
+## Changelog
+## Contribute
